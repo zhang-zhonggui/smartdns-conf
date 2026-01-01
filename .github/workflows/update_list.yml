@@ -1,6 +1,13 @@
 name: Update China List for SmartDNS
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'chinalist.txt'
+      - 'mylist.txt'
+      - '.github/workflows/**'
   schedule:
     - cron: '0 22 * * *'  # 北京时间 6:00
   workflow_dispatch:  # 允许手动触发任务
