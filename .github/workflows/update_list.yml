@@ -6,14 +6,14 @@ on:
     - cron: '0 22 * * *'
   workflow_dispatch: # 允许手动点击按钮运行
   
-  # 新增：当你 push 代码时自动运行
+  # 修改：当 push 代码时自动运行
   push:
     paths:
-      - 'mylist.txt'        # 只有当自定义列表变动时运行
-      - '.github/workflows/**' # 或者当你修改这个脚本时运行
-      # 忽略 chinalist.txt 的变动，防止因为脚本自己提交代码而产生死循环（虽然 GITHUB_TOKEN 通常不会触发，但加上保险）
-    paths-ignore:
-      - 'chinalist.txt'
+      - 'mylist.txt'            # 只有当自定义列表变动时运行
+      - '.github/workflows/**'  # 或者当你修改这个脚本时运行
+    # 删除了 paths-ignore，因为上面指定了 paths 后，
+    # 改动 chinalist.txt 这种不在列表里的文件，本身就不会触发运行，
+    # 这样就自动避免了死循环。
 
 permissions:
   contents: write
