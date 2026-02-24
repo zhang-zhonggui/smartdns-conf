@@ -22,6 +22,10 @@ else
   sort -u temp_official.txt > $OUTPUT
 fi
 
+# 在文件开头添加更新时间戳和说明
+sed -i "1i # 更新时间: $(date '+%Y-%m-%d %H:%M:%S')" $OUTPUT
+sed -i "1i # 数据源: felixonmars/dnsmasq-china-list + mylist.txt" $OUTPUT
+
 # 清理临时文件
 rm -f raw.conf temp_official.txt
 
