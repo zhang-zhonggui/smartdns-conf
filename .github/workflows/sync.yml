@@ -1,13 +1,19 @@
-name: Update SmartDNS AdBlock List
+name: Update SmartDNS Rules
 
 on:
   schedule:
-    # 每天北京时间早上 6 点自动运行 (UTC 时间 22:00)
-    - cron: '0 22 * * *'
-  workflow_dispatch: # 允许在 GitHub 网页上手动点击运行
+    # 每 6 小时执行一次 (UTC 0:00, 6:00, 12:00, 18:00)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # 允许手动触发
+  push:
+    paths:
+      - 'mylist.txt'
+      - 'update.sh'
+      - 'update_chinalist.sh'
+      - '.github/workflows/**'
 
 permissions:
-  contents: write # 允许 Action 推送代码到仓库
+  contents: write
 
 jobs:
   build:
@@ -16,7 +22,12 @@ jobs:
       - name: 检出代码
         uses: actions/checkout@v3
 
-      - name: 运行合并脚本
+      - name: 生成国内域名分流列表
+        run: |
+          chmod +x update_chinalist.sh
+          ./update_chinalist.sh
+
+      - name: 生成广告黑名单过滤规则
         run: |
           chmod +x update.sh
           ./update.sh
@@ -25,11 +36,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add smartdns_ad_block.conf
-          
-          # 检查是否有内容变更，如果有则提交
+          git add chinalist.txt smartdns_ad_block.conf
+
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Auto Update SmartDNS AdBlock Rules"
+            git commit -m "Auto Update SmartDNS Rules"
             git push
           else
             echo "规则没有变化，无需提交"
