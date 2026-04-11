@@ -1,5 +1,5 @@
 # 数据源: felixonmars/dnsmasq-china-list + mylist.txt
-# 更新时间: 2026-04-11 07:04:33
+# 更新时间: 2026-04-11 13:04:41
 0.xn--czrs0t
 0.xn--unup4y
 0.zone
@@ -32310,6 +32310,7 @@ duba.net
 dubairen.com
 dubao123.com
 dubbing.tech
+dubbingx.com
 dubbo.io
 duble.live
 dubola.com
@@ -68903,6 +68904,7 @@ miaoche.com
 miaocode.com
 miaodiyun.com
 miaodongbar.com
+miaodongshenghuo.com
 miaogongzi.cc
 miaogongzi.net
 miaohuiyanyi.com
@@ -79934,6 +79936,7 @@ quasarchs.com
 quaspa.com
 quazero.com
 quba360.com
+qubang.cc
 qubaobei.com
 qubiankeji.com
 qucai.com
@@ -95338,6 +95341,7 @@ tsfqw.com
 tsg-online.net
 tsggx.com
 tsgks.com
+tsgyun.com
 tshaisen.com
 tshe.com
 tshe.me
@@ -110424,6 +110428,7 @@ yoodb.com
 yooek.com
 yoofh.com
 yoogene.com
+yoohe.net
 yoohouse.com
 yoojia.com
 yoojing.com
