@@ -1,5 +1,5 @@
 # 数据源: felixonmars/dnsmasq-china-list + mylist.txt
-# 更新时间: 2026-04-20 02:56:52
+# 更新时间: 2026-04-20 08:12:58
 0.xn--czrs0t
 0.xn--unup4y
 0.zone
@@ -1410,6 +1410,7 @@
 1008120.com
 10086.com
 10086.games
+10086.world
 10086.xn--czrs0t
 1008656.com
 1008691.com
@@ -3867,6 +3868,7 @@
 30post.com
 30sche.com
 30th-feb.com
+30vps.com
 30w.co
 31.xn--czrs0t
 31.xn--vhquv
@@ -10754,6 +10756,7 @@ acetar.com
 acewill.net
 acexpress.org
 acfechina.org
+acflow.com
 acftu.org
 acfun.com
 acfun.net
@@ -11031,6 +11034,7 @@ aduer.com
 adukwai.com
 adult-stem-cells.com
 adunicorn.com
+adunimax.com
 adunioncode.com
 adunite.com
 adups.com
@@ -13366,6 +13370,7 @@ api-ar.cnno1.uds.lenovo.com
 api-ar.euwe1.uds.lenovo.com
 api-ar.naea1.uds.lenovo.com
 api-cn-t.lenovo.com
+api-expo.com
 api-forwards.com
 api-m.com
 api-vod-qcloud.com
@@ -20305,6 +20310,7 @@ cccc-sdc.com
 cccc-sjer.com
 cccc58.com
 cccc8cccccc.cc
+ccccccccccc.cc
 cccccd.com
 cccclc-gd.com
 cccclc.com
@@ -28190,6 +28196,7 @@ cxrczpw.com
 cxsdszx.com
 cxsk.work
 cxsm.com
+cxstar.com
 cxsteel.com
 cxstgc.com
 cxsw3d.com
@@ -28747,6 +28754,7 @@ daguipc.com
 dagun.net
 daguzhe.com
 dagyujt.com
+dahachuxing.com
 dahai96.com
 dahainan.com
 dahaiwater.com
@@ -29584,6 +29592,7 @@ dcybkj.com
 dcyiyao.com
 dcyjc.com
 dcyz.com
+dcyzq.com
 dczcsc.com
 dczkj.com
 dczy168.com
@@ -29659,6 +29668,7 @@ ddmap.com
 ddmer.com
 ddmogo.com
 ddnddn.com
+ddnscn.com
 ddnspod.com
 ddnsto.com
 ddnx.com
@@ -33205,6 +33215,7 @@ easeheal.com
 easemob.com
 easerun.com
 easesale.com
+easesdk.com
 easeslb.com
 easetuner.com
 easeus.com
@@ -35978,6 +35989,7 @@ fcstor.com
 fcsubcn.cc
 fcsubcn.pro
 fctaiwan.com
+fcto.rest
 fcuit.com
 fcvvip.com
 fcw0633.com
@@ -41406,6 +41418,7 @@ gsgltz.com
 gsgs10086.com
 gsgundam.com
 gshangju.com
+gshis.net
 gshmhotels.com
 gshmzs.com
 gshopper.com
@@ -42031,6 +42044,7 @@ guodashi.com
 guodatzjt.com
 guodegang.org
 guodi.net
+guodiana.com
 guodingnet.com
 guodongbaohe.com
 guodongtech.com
@@ -54920,6 +54934,7 @@ iv06.com
 iv2i.com
 iva-schmetz.com
 ivali.com
+ivanli.cc
 ivban.com
 ivcheng.com
 ivdchina.org
@@ -56844,6 +56859,7 @@ jinggongvalve.com
 jingguan.ai
 jinggui.com
 jinghaishop.com
+jinghandianzi.com
 jinghangapps.com
 jingheiot.com
 jinghesh.net
@@ -59942,6 +59958,7 @@ jz26666.com
 jz36666.com
 jz5u.com
 jz6.com
+jz60.com
 jz6868.com
 jz68888.com
 jzac.org
@@ -60681,6 +60698,7 @@ kedi.cc
 kedian-tech.com
 kedianduo.com
 kedidairy.com
+kedingyun.com
 kedou.com
 keduxinxi.com
 kedwyz.com
@@ -60992,6 +61010,7 @@ khdyly.com
 khfwedu.com
 khhospital.com
 khidi.com
+khlgamen.com
 khly.com
 khlysc.com
 khmhvlw.com
@@ -61040,6 +61059,7 @@ kilo1kw.com
 kiloai.com
 kimberley-technology.com
 kimderlite.com
+kimi.ai
 kimi.com
 kimi.link
 kimi.pub
@@ -61961,6 +61981,7 @@ kuaiji.so
 kuaiji521.com
 kuaiji66.com
 kuaijianji.com
+kuaijiepaotui.com
 kuaijilunwen.com
 kuaijinniu.com
 kuaijipeixunlg.com
@@ -68411,6 +68432,7 @@ meinv.com
 meiobrand.com
 meionetech.com
 meip0.me
+meip1.me
 meip4.me
 meipai.com
 meipaixiu.com
@@ -69394,6 +69416,7 @@ mini-program-acc.com
 miniadx.com
 miniaixue.com
 miniapida.com
+miniapp.fun
 miniapp360.com
 miniappss.com
 minibai.com
@@ -70276,6 +70299,7 @@ motimaster.com
 motimo.com
 motisky.com
 moto-one.com.hk
+moto17.com
 moto8.com
 moto8.net
 motomatu.com
@@ -78972,6 +78996,7 @@ qingkuaipdf.com
 qingkuajing.com
 qingkuw.com
 qinglan.info
+qinglanbaseanycast.com
 qinglanbaseunicast.com
 qinglanji.com
 qinglianfood.com
@@ -83802,6 +83827,7 @@ sdjiance.com
 sdjiankan.com
 sdjianmei.com
 sdjingdao.com
+sdjinghan.com
 sdjinhuihb.com
 sdjinke.com
 sdjkdq.com
@@ -84110,6 +84136,7 @@ sealandtableware.com
 sealeadbattery.com
 sealien.net
 sealimg.com
+sealion360.com
 sealos.run
 sealyun.com
 seamanhome.com
@@ -91293,6 +91320,7 @@ szlongyu.com
 szlottery.org
 szlqjt.com
 szlsnk.com
+szlswl8.com
 szltech.com
 szltlh.com
 szltour.com
@@ -92241,6 +92269,7 @@ taoxiangyoushu.com
 taoxiaolu.com
 taoxie.com
 taoxie.com.tw
+taoxuemiao.com
 taoxv.com
 taoyi-support.com
 taoyitu.com
@@ -104804,6 +104833,7 @@ xin1234.com
 xin21.xyz
 xin3721.com
 xin6.net
+xinac.net
 xinanjr.com
 xinanrui.com
 xinansec.com
@@ -106631,6 +106661,7 @@ xtjlyy.com
 xtjob.net
 xtjsxy.net
 xtjtjs.com
+xtlexueu.com
 xtlog.com
 xtmit.com
 xtmtrj.com
@@ -109518,6 +109549,7 @@ yipeng888.com
 yipiaoyun.com
 yipigu.com
 yipihuo.com
+yipinbowu.com
 yipingmed.com
 yipingmi.vip
 yipingsj.com
@@ -114103,6 +114135,7 @@ zhaoliming.net
 zhaomengtu.com
 zhaoming.biz
 zhaomishijie.com
+zhaomu.com
 zhaomuqingyun.com
 zhaomxd.com
 zhaoniupai.com
@@ -115672,6 +115705,7 @@ zitiewang.com
 zitiguanjia.com
 zitijia.com
 zitixiazai.org
+zitiziyuan.com
 zitongit.com
 zituo.net
 ziubao.com
