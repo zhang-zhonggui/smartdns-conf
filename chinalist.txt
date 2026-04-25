@@ -1,5 +1,5 @@
 # 数据源: felixonmars/dnsmasq-china-list + mylist.txt
-# 更新时间: 2026-04-25 13:10:39
+# 更新时间: 2026-04-25 18:57:59
 0.xn--czrs0t
 0.xn--unup4y
 0.zone
@@ -4523,6 +4523,7 @@
 366300.com
 366666.net
 36683.com
+366999.com
 3669yx.com
 366club.com
 366ec.com
@@ -7057,6 +7058,7 @@
 5918656.com
 5918dyw.com
 591918.com
+591adb.com
 591con.com
 591hx.com
 591master.com
@@ -29482,6 +29484,7 @@ dayishengwu.com
 dayitea.com
 dayiwater.com
 dayong.name
+dayonglaw.com
 dayoo.com
 dayrui.com
 dayscamera.com
@@ -31863,6 +31866,7 @@ doubaijiu.com
 douban.com
 douban.fm
 doubanio.com
+doubao-dev.com
 doubao.com
 doubaocdn.com
 doubaozhidao.com
@@ -34015,6 +34019,7 @@ ehejun.com
 ehengjian.com
 eheren.com
 ehetech.com
+ehewen.com
 eheyin.com
 ehijoy.com
 ehinvest.hk
@@ -37185,6 +37190,7 @@ flygon.net
 flyhand.com
 flyingeffect.com
 flyingpigeon1936.com
+flylinking.com
 flyme.com
 flyme.net
 flymeauto.com
@@ -38933,6 +38939,7 @@ gavill.com
 gavindesign.com
 gavinzh.com
 gaxgame.com
+gaxify.com
 gaxrmyy.com
 gayzyhh.com
 gaze.run
@@ -48023,6 +48030,7 @@ hiooq0417.com
 hiosu.com
 hioug.com
 hiparking.com
+hipc123.com
 hipcam.net
 hipcapi.com
 hiphi.com
@@ -50765,6 +50773,7 @@ huilongtech.com
 huilunbio.com
 huilv8.com
 huilvbiao.com
+huilvhuansuanqi.com
 huilvwang.com
 huilvyankuang.com
 huilw.com
@@ -69216,6 +69225,7 @@ mingjian365.com
 mingjignfang.com
 mingjinglu.com
 mingjiudu.com
+mingjun2008.com
 mingjuyoupin.com
 mingkj.com
 minglian.com
@@ -75269,6 +75279,7 @@ ovuwork.com
 ovxe.com
 owalle.com
 oway.mobi
+owdct.com
 owecn.com
 oweidata.com
 oweis-tech.com
@@ -80424,6 +80435,7 @@ qytdesign.com
 qytranslation.com
 qytst.com
 qytxhy.com
+qyue.org
 qyunapp.com
 qyuner.com
 qyuns.net
@@ -82717,6 +82729,7 @@ sanshua.com
 sansitech.com
 sansky.net
 santaihu.com
+santainews.com
 santanjob.com
 santelvxing.com
 santezjy.com
@@ -89915,6 +89928,7 @@ suxx0.com
 suyangroup.com
 suyuantuliao.com
 suyuening.com
+suyueyun.com
 suyugame.com
 suyujoy.com
 suyun.net
@@ -94239,6 +94253,7 @@ toec-gdgs.com
 toec-iot.com
 toec.com
 toecsec.com
+toewin.com
 tofeat.com
 tofengmi.com
 tofflon.com
@@ -102217,6 +102232,7 @@ ww-77660.com
 ww2bbs.net
 ww8899.com
 wware.org
+wwchicun.com
 wwejds.com
 wwenglish.com
 wwenglish.org
