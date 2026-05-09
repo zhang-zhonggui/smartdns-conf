@@ -1,5 +1,5 @@
 # 数据源: felixonmars/dnsmasq-china-list + mylist.txt
-# 更新时间: 2026-05-09 03:22:52
+# 更新时间: 2026-05-09 07:59:56
 0.xn--czrs0t
 0.xn--unup4y
 0.zone
@@ -53105,7 +53105,6 @@ ithov.com
 ithuangw.com
 itiankong.com
 itiankong.net
-itianliao.com
 itiexue.net
 itiger.com
 itigergrowth.com
@@ -55363,7 +55362,6 @@ jinqunla.com
 jinr.com
 jinridiaoyu.com
 jinriguanzhu.cc
-jinriningxiang.com
 jinrirm.com
 jinrishici.com
 jinritemai-inc.com
@@ -56811,6 +56809,7 @@ jsguohua.com
 jsguolv.com
 jsgwyw.org
 jsgx.net
+jsgxca.com
 jsgxgf.com
 jsgyrcb.com
 jsgzgz.com
@@ -58413,6 +58412,7 @@ kaiyun.net
 kaiyun360.com
 kaiyuncare.com
 kaiyunwu.net
+kaizencpa.com
 kaizhan.com
 kajicam.com
 kaka.com
@@ -109792,6 +109792,7 @@ zggcks.com
 zggd.city
 zgggws.com
 zggjgy.com
+zggjj.com
 zggjsmc.com
 zggldgj.com
 zgglkx.com
@@ -113497,6 +113498,7 @@ zwlhome.com
 zwoasi.com
 zwoptical.com
 zwoptics.com
+zwpyyds.com
 zwslshy.com
 zwsmds.com
 zwtianshangm.com
