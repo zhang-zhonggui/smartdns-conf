@@ -1,5 +1,5 @@
 # 数据源: felixonmars/dnsmasq-china-list + mylist.txt
-# 更新时间: 2026-09-04 15:57:17
+# 更新时间: 2026-09-04 20:27:20
 0.xn--czrs0t
 0.xn--unup4y
 0.zone
@@ -2687,6 +2687,7 @@
 1zhe.com
 1zhengji.com
 1zhixue.com
+1zidc.com
 1zj.com
 1zjob.com
 1zu.com
@@ -16642,6 +16643,7 @@ bktencent.com
 bktsj.com
 bkvps.com
 bkweek.com
+bkwsq.com
 bkzzy.com
 bl.com
 bl0757.com
@@ -18536,6 +18538,7 @@ cangya.com
 cangzhouhd.com
 canhighcenter.com
 canhot.net
+canhui.xyz
 caniculab.com
 canidc.com
 canjio.com
@@ -75948,6 +75951,7 @@ redidc.com
 redisfans.com
 redmagic.com
 redmart.com
+redmid.com
 redmou.com
 rednetdns.com
 rednote.com
@@ -92394,6 +92398,7 @@ vxia.net
 vxiaocheng.com
 vxinyou.com
 vxixi.com
+vxni.ink
 vxo7tu.com
 vxocok3197.vip
 vxsnk.com
